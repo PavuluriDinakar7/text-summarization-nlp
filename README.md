@@ -1,9 +1,6 @@
 # 📝 Text Summarization using NLP (TextRank Algorithm)
 
 This project uses Python's NLP libraries to perform extractive text summarization on `.docx` documents. It applies the **TextRank** algorithm to identify and extract the most relevant sentences, producing a concise summary.
-# 📝 Text Summarization using NLP (TextRank Algorithm)
-
-This project uses Python's NLP libraries to perform extractive text summarization on `.docx` documents. It applies the **TextRank** algorithm to identify and extract the most relevant sentences, producing a concise summary.
 
 ---
 
@@ -23,7 +20,7 @@ text-summarization-nlp/
 - Accepts `.docx` files as input
 - Cleans and tokenizes text using NLTK
 - Ranks sentences using cosine similarity
-- Saves output as `.docx` summary
+- Saves output as a `.docx` summary
 - Uses TextRank algorithm
 
 ---
