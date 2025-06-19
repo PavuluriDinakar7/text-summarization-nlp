@@ -16,10 +16,6 @@ text-summarization-nlp/
 ├── .gitignore
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Features
