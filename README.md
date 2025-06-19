@@ -38,13 +38,4 @@ Install required libraries:
 
 ```bash
 pip install nltk python-docx
----
-
-## 📂 Project Structure
-
-text-summarization-nlp/
-├── Text Summarization using NLP.py
-├── input text.docx
-├── output summary with TextRank.docx
-├── .gitignore
-└── README.md
+--
